@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">CollabStudyhub</string>
+    <string name="logout">logout</string>
+    <string name="login_Form">login_Form</string>
+    <string name="EMAIL">EMAIL</string>
+    <string name="PASSWORD">PASSWORD</string>
+    <string name="Login">Login</string>
+    <string name="Enregistrer">Enregistrer</string>
+    <string name="Register">Register</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="click_to_login">click_to_login</string>
 </resources>

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "335956915831",
+    "firebase_url": "https://collabstudy-hub-default-rtdb.firebaseio.com",
+    "project_id": "collabstudy-hub",
+    "storage_bucket": "collabstudy-hub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335956915831:android:6c2d388b732671eaef3872",
+        "android_client_info": {
+          "package_name": "com.example.collabstudyhub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8KWvLyZAhQc5XSdWLJq0qxu5_H0lWUTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
